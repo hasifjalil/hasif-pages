@@ -1,4 +1,4 @@
-# Site
+u# Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
@@ -12,7 +12,7 @@ email: brett.h@email.co.uk
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 twitter_username: facespics
@@ -125,5 +125,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
-
- github: [metadata]
