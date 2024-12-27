@@ -1,10 +1,6 @@
 deployment:
      tasks:
         - export DEPLOYPATH=/home4/yvosjcgq/public_html/
-        - /bin/cp <file_name> $DEPLOYPATH
-        - /bin/cp /<sub_folder>/<file_name> $DEPLOYPATH
-        - /bin cp * $DEPLOYPATH
-        - /bin cp /<sub_folder>/* $DEPLOYPATH
         - /bin/cp -r * $DEPLOYPATH                    
         
         
